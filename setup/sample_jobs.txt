@@ -1,0 +1,289 @@
+Example Job description #1
+About The Team
+We’re looking for a Staff Product Manager to lead the Buyer Experience product squads within the Inventory
+group. You’ll be responsible for defining the long-term vision, strategy & roadmap for the app and web experiences
+for buyers shopping for personalizable and custom items on Etsy.
+About the role
+We're looking for a contractor to lead our Buyer Web & App squads focused on improving the experience for buyers
+shopping for personalizable and custom items on Etsy. You'll be creating a vision for this important segment of
+Etsy's inventory and reimagining how we help buyers choose item options and co-create with Etsy sellers when
+they're shopping for items made just for them.
+This is a high-ambiguity, cross-functional role operating in a problem space that is still being defined. Y ou will lead
+strategy, run experiments, partner closely with research, engineering and design, and work in tight coordination with
+the seller experience team to deliver best-in-class experiences for this unique segment of Etsy's inventory.
+Requirements:
+5+ years of product management experience, with a strong track record operating in ambiguous, multi-
+platform problem spaces where both the problem and solution space are novel.
+Direct consumer e-commerce and marketplace experience is highly preferred.
+Deep experience leading discovery and building consumer-facing shopping experiences, ideally on a
+two-sided marketplace; familiarity with listing page, cart, and checkout surfaces is a plus.
+Proven ability to design and run A/B experiments, including complex multi-sided tests; strong comfort
+with hypothesis-driven development and measurement design.
+Experience shipping product across Web and mobile (iOS/Android), coordinating platform-specific
+implementations from a single product strategy.
+Strong cross-functional leadership skills — you can align engineering, design, analytics, legal, and partner
+teams around a shared plan without direct authority.
+Ability to define strategy and metrics from scratch in a space where KPIs are not yet established and
+upstream/downstream business drivers are unclear.
+Excellent written and verbal communication; you write clear PRDs and concise strategic framing for senior
+audiences.
+Comfortable leading through change and rallying a team when priorities shift or launches surface unexpected
+challenges.
+Hours and Location
+M-F, 40 hours/week
+100% remote
+
+Example job description #2
+
+Company and benefits
+Job ID
+260033181
+Job Category
+Technology
+Job Level
+Manager without Direct Reports
+Posting Date
+07/06/2026
+Expiration Date
+08/05/2026
+Workplace Expectation
+In-Office
+Bonus Eligible
+Yes
+Pay
+$157,300 - $262,100 Annually
+Job Summary and Mission
+
+At Starbucks, our mission is to inspire and nurture the human spirit – one person, one cup, and one neighborhood at a time. Starbucks Technologists work to achieve this mission through the use of cutting-edge technology delivered to our partners, customers, stores, roasters, and global communities.
+
+This role will recognize and articulate business problems or opportunities, define target metrics, and create well-formed epics or user stories for engineering teams, who can then design, build, release, and monitor technical solutions efficiently.
+
+This position contributes to Starbucks success by contributing to the strategic value, usability, and performance of one or more of our digital products.  To be successful, the technical product manager needs to have significant technical acumen and experience along with a passion for delighting product users with simple solutions and engaging digital experiences. 
+
+Summary of Key Responsibilities
+
+Responsibilities and essential job functions include but are not limited to the following:
+
+Product Definition & Value
+
+·         Responsible for leading TPM practice for the Customer Experience Engineering (CXE) team, which enable Mobile Order & Pay, Loyalty, and Digital Marketing experiences for Starbucks iOS, Android and Web mobile applications.
+
+·         Reports directly to CXE Director and partners with the TPM Manager and TPM team members to develop, document, socialize, and foster best practices and process for TPM practice.
+
+·         Responsible for determining business needs, understanding market demands and technical trends, problem solving and proposing solutions.
+
+·         Align with business partners and stakeholders to balance business and technical objectives and manifest these as clear priorities and stories for the CXE team.
+
+·         Manages product planning and development through day-to-day collaboration and decision making with a cross-functional team including architects, developers, designers and business or subject matter representatives.
+
+·         Translates customer experience into technical requirements and product solutions.
+
+·         Defines non-functional requirements including performance, scalability, resilience, usability, accessibility, security, and business continuity.
+
+·         Creates data flows and functional and technical specifications as needed.
+
+·         Identifies opportunities to improve feature performance and overall product health using data.
+
+·         Stays abreast of new technology capabilities and leverages knowledge in contributing to product solutions. Recommends and plans innovative products and features.
+
+Analysis & KPIs
+
+·         Defines and analyzes metrics that measure and benchmark product success.
+
+·         Defines product health and performance metrics.
+
+·         Creates dashboard/reporting requirements and KPIs to measure product performance.
+
+·         Measures feature success post deployment and feeds insights back to the team and business partners.
+
+Communication & Collaboration
+
+·         Interacts directly with business and technology stakeholders to understand business problems and partner with technology to define solutions that meet the business needs with technology best practices.
+
+·         Presents options/recommendations clearly and persuasively to support business stakeholder decisions.
+
+·         Works with engineering teams to understand, prioritize and document technical and non-functional features.
+
+·         Owns effective relationships with engineering teams across Starbucks Technology.
+
+Product Planning & Delivery
+
+·         Practices iterative, agile development.
+
+·         Identifies and documents technical tradeoffs as well as dependencies and constraints.
+
+·         Performs validation of feature against stated goals.
+
+·         Helps resolve technical blocking issues and coordinates solutions across multiple technical teams.
+
+·         Works with cross-functional teams on feature sizing and delivery planning.
+
+·         Effective communications of product delivery milestones and progress.
+
+·         Works with product, producers, engineering, and QA to align on feature sizing and delivery planning.
+
+·         Performs validation of feature against customer and business goals and acceptance criteria.
+
+·         Works with product managers to scope and prioritize upcoming projects into the roadmap.
+
+·         Contributes to a cross-team digital product roadmap.
+
+Required Knowledge, Skills and Abilities
+
+·         Bachelor’s Degree in Computer Science, Information Technology, Business, or relevant field.
+
+·         Demonstrated ability to use analytics and optimization tools to inform product planning and prioritization (5 years).
+
+·         Demonstrated ability to work with design and engineering to deliver customer facing features (5 years).
+
+·         Hands on experience in developing roadmaps, priorities, features, story outlines, writing user stories, refining product backlogs, and coordinating/prioritizing conflicting requirements in a fast-paced, changing environment with variety of stakeholders (5 years).
+
+·         Solid understanding of API technologies (REST, authentication, JSON/XML, error handling, versioning).
+
+·         Industry experience in a technology environment with a record of successfully delivering complex products (5+ years).
+
+·         Strong verbal and written communications skills.
+
+Preferred Qualifications
+
+·         5+ years of industry experience in a technology environment with a record of successfully delivering complex products.
+
+·         Recent experience in defining and/or building applications for mobile platforms.
+
+·         Ability to read and understand programming languages.
+
+·         Prior programming experience a plus.
+
+Example Job Description #3
+Staff Product Manager, Risk Product Experience
+Risk & Financial Crimes
+
+About the team
+The Risk Product Experience team develops products for users to understand,
+manage, and improve their risk standing on Stripe. We craft outstanding product
+experiences to help users navigate all of Stripe's risk journeys (i.e. information
+collection to meet partner and regulatory commitments). These risk
+experiences are some of Stripe's most critical user journeys—allowing us to seamlessly
+onboard users to the global financial ecosystem and apply targeted actions to
+stop fraud and financial crime. The Risk Product Experience team delivers these
+journeys at scale (i.e. millions of users) and partners with teams across Stripe to
+ensure we deliver consistently excellent user experiences via flexible UX partners,
+primitives, and APIs.
+What you’ll do
+In this role, you'll own the product strategy for risk
+experiences that reach millions
+of users globally. You'll partner across Stripe to make complex compliance and
+fraud-prevention journeys feel clear and seamless—turning one of Stripe's most
+critical surfaces into a competitive advantage for the businesses we serve.
+Responsibilities
+Define the strategy and roadmap for existing and new Risk
+product experiences
+Drive collaboration across Stripe and external partners to deliver delightful,
+high-performing end-to-end risk journeys
+Act as the voice of the user in product and API designs, gathering direct
+feedback from customers and internal stakeholders
+Work with engineering, design, and go-to-market teams on designing a
+personalized and scalable onboarding experience
+Who you are
+We’re looking for someone who meets the minimum requirements to be
+considered for the role. If you meet these requirements, you are encouraged to
+apply. The preferred qualifications are a bonus, not a requirement.
+Minimum requirements
+8+ years in Product Management, specifically in delivering outstanding user
+experiences for complex and technical products
+Experience managing technical software products from kick
+off to ship
+Consistent track
+record of leading ambitious and ambiguous 0-to-1 projects
+Strong stakeholder management including navigating difficult situations,
+negotiating timelines, and influencing internal and external stakeholders across
+organizations and borders
+Strong communication skills—you can summarize and express complex
+requirements in an accessible and precise manner
+Preferred qualifications
+Preferably has experience with B2B SaaS or Fintech Consumer
+Preferably has experience with compliance and regulation in financial services
+Experience working on zero-to-one products, particularly in startups
+Hybrid work at Stripe
+
+Example Job Description #4
+As a Senior Product Manager (Technical), you will define, execute, and deliver a product roadmap
+with the goal of earning the trust of our publishers and authors to deliver the best experience for our
+reading customers. You will strongly influence the strategy and vision for the group. You will develop
+and look after product roadmaps and features based on team strategy and vision. This role is
+inherently cross-functional -- you will work closely with engineering, business, operations, vendor
+management and executive teams to launch features and build tools and mechanisms. A successful
+candidate will be highly analytical, able to work extremely eﬀectively in a matrix organization, and
+adept at synthesizing a variety of technologies and capabilities into high quality, simple product,
+features and applications.
+Key job responsibilities
+• Assist in driving and delivering the best content experience on all Kindle surfaces.
+• Lead cross-functional teams (engineering, UX, research, etc.) across Amazon and Books to deliver
+projects on time.
+• Support in defining strategic, creative, high quality product roadmaps based on team strategy and
+vision supported by internal and external analysis.
+• Learn from customer feedback, behavioral measurements, and other data sources to craft better
+experiences and ensure we are building the right features over time.
+• Role is global in nature and will work with teams in other countries.
+About the team
+The KINEX (Kindle Experience) team owns the overall experience for the Kindle for iOS app, Kindle
+for Android app, FireOS, E-reader, Kindle for web, PC/Mac, Kindle File Format for Books &
+Documents, Content Experiences and Publisher Tools. This includes much of the experience you see
+on the app (Library, Home, Settings, Insights, etc.) and inside of the book (Core content presentation,
+Audio books consumption, Aa menu, other chrome), but does not include Store detail page/search
+and the publishing and subscription side of the business (KDP, KU, etc.).
+Our mission is to make Kindle the world's favorite way to read and get more out of reading. Our
+vision for Kindle is a magical piece of paper that empowers customers to engage with and reflect on
+the written word.
+Basic Qualifications
+- 5+ years of product or program management, product marketing, business development or
+technology experience
+- Bachelor's degree
+- Experience with feature delivery and tradeoﬀs of a product
+- Experience owning/driving roadmap strategy and definition
+- Experience with end to end product delivery
+- Experience contributing to engineering discussions around technology decisions and strategy
+related to a product
+- Experience managing technical products or online services
+- Experience in representing and advocating for a variety of critical customers and stakeholders
+during executive-level prioritization and planning
+Preferred Qualifications
+- MBA, or Master's degree in computer science, engineering, analytics, mathematics, statistics, IT or
+equivalent
+- Experience in technical product management, program management or engineering
+- Experience in written and verbal communication with the ability to present complex technical
+information in a clear and concise manner to executives and non-technical leaders
+- Experience delivering technology products or services in a high growth environment
+- Passion for reading
+
+Example Job Description #5
+Senior Product Manager, Shopping Experience
+United States - Remote
+Overview
+Instacart’s Shopping Experience team is focused on making it effortless for people to discover, plan, and shop the food that fuels their lives. We’re building intuitive, trustworthy experiences that help customers find inspiration, make healthier choices, and get from idea to checkout with confidence.
+We’re looking for a Senior Product Manager to lead our Health product area. In this role, you will shape the vision, strategy, and roadmap for how Instacart helps customers discover and shop food that honors dietary needs and helps them achieve their health goals.
+You’ll partner closely with design, research, engineering, data science, and go-to-market teams to translate deep user empathy into delightful, impactful products. This is a highly visible, zero-to-one opportunity—ideal for someone who thrives in ambiguity, rolls up their sleeves to execute, and loves building startup-style products within the scale of Instacart.
+You’ll join a focused pod within Shopping Experience with 6 engineers, 1 data scientist, 1 designer, and 1 user researcher, and collaborate across a broader group of product managers in the organization. The features you ship will be used by millions of customers every week, giving you the chance to drive meaningful outcomes at scale.
+We’re a remote-friendly, fast-moving team that values clear communication, ownership, and collaborative problem solving to serve customers better every day.
+About the Job
+Own the end-to-end product strategy and roadmap for Health within Shopping Experience, driving zero-to-one bets from discovery through scaled launch and iteration.
+Partner with design and research to deeply understand customer needs across inspiration, dietary filters, and health-forward discovery; translate insights into simple, elegant product experiences.
+Define success metrics and run a rigorous experimentation program (A/B tests, multivariate tests) to improve core outcomes such as engagement, conversion, and retention.
+Work cross-functionally with engineering, data science, operations, partnerships, legal, and privacy to deliver responsibly built features at scale, balancing speed with quality and compliance considerations.
+Build alignment across diverse stakeholders, communicate tradeoffs and decisions with clarity, and ruthlessly prioritize to maximize customer and business impact in a fast-paced environment.
+About You
+You combine customer obsession with data-driven decision making, communicate crisply across functions, and are energized by turning ambiguity into clear, measurable outcomes.
+Minimum Qualifications
+6+ years of product management experience building consumer products, including ownership of end-to-end user experiences from discovery through launch and iteration.
+Proven track record shipping zero-to-one products with measurable impact (for example: improved conversion, retention, or engagement) and scaling them to broad adoption.
+Hands-on experience collaborating with product design and user research to convert insights into clear PRDs, prototypes, and shipped features.
+Data fluency with experimentation and analytics (for example: defining success metrics, partnering on A/B tests, interpreting results; SQL proficiency or equivalent analytics tooling experience).
+Experience operating in highly cross-functional environments, influencing without authority, and aligning multiple stakeholder groups to a clear roadmap.
+Bachelor’s degree in a relevant field (such as Computer Science, Engineering, Design, Business, or a related discipline) or equivalent practical experience.
+Preferred Qualifications
+Experience in health, nutrition, wellness, or other regulated consumer product spaces.
+Background in e-commerce, marketplaces, personalization/recommendation systems, search, or content experiences.
+Startup or “startup within a startup” experience leading products from zero-to-one in high-ambiguity, fast-moving environments.
+Familiarity with third-party integrations relevant to health (for example: recipes, nutrition data, or health data platforms).
+Exceptional storytelling and communication skills, including the ability to drive alignment across executive and cross-functional audiences.
+
