@@ -1,0 +1,56 @@
+Senior Technical Product leader with a track record of defining and delivering eCommerce and digital retail platform features in SAFe Agile environments. Proven experience authoring detailed user stories and acceptance criteria, prioritizing and grooming sprint backlogs, driving UAT, and collaborating with Systems Architects, Delivery Managers, and engineering teams to deliver incremental value. Played a central role in Nordstrom's Waterfall-to-SAFe Agile transformation. Deep retail eCommerce domain knowledge across browse, product discovery, checkout, and order management surfaces. Proficient in Google Workspace.
+SELECT ACHIEVEMENTS
+
+Led Nordstrom's core Waterfall-to-SAFe Agile transformation team - completing methodology change across the full Technology organization, establishing sprint ceremonies, backlog management practices, and value stream delivery models that enabled consistent, measurable feature delivery
+Drove $15M in eCommerce revenue growth over 3 years at Nordstrom by sustaining 99.49–99.97% site availability through consecutive Cyber Monday events via incremental operational improvement delivery
+Reduced checkout chargeback fraud by 48% and exceeded conversion targets by 67% at Nordstrom through a focused eCommerce checkout redesign - defined MVP scope, authored requirements and acceptance criteria, drove UAT
+Contributed to $20M in revenue and 100% YoY growth at Premise Data by defining and prioritizing the product backlog for a zero-to-one self-service SaaS platform feature set - authoring detailed user stories, acceptance criteria, and functional specifications across a complex, multi-team delivery environment
+CORE COMPETENCIES
+
+User Story & Acceptance Criteria Authoring  ·  Sprint Backlog Prioritization & Grooming  ·  SAFe Agile Delivery & Ceremonies  ·  MVP Definition & Release Planning  ·  User Acceptance Testing (UAT)  ·  Business Requirements Elicitation
+eCommerce & Digital Retail Platforms  ·  REST APIs / Microservices / CI/CD  ·  Cross-Functional Stakeholder Collaboration
+PROFESSIONAL EXPERIENCE
+
+Amazon Leo (via Creative Circle / Accenture)                                                                                   September 2025 – April 2026
+Technical Product Manager (PM-T) Consultant – Customer Mobile Experience
+Defined product requirements for a customer-facing mobile app enabling setup, monitoring, and management of next-generation connectivity across underserved, emerging, and established markets 
+Partnered with engineering on architecture decisions; authored solution options documents and conducted competitive research to inform MVP scope, technical tradeoffs, and prioritization
+Translated end-user and partner needs into detailed technical specs, user stories, and acceptance criteria - reducing clarification back-and-forth between product, design, and engineering
+Participated in backlog prioritization and sprint planning; led internal user testing, contributed to low-level design, and supported App Store submissions and security reviews toward a projected July 2026 public launch
+TerraCycle                                                                                                                                                    March 2022 – January 2024
+Director of Product Management – Global Digital and eCommerce
+Defined and drove the digital product roadmap for TerraCycle.com - enabling $12M in annual eCommerce sales across hundreds of millions of members and 40,000 brand clients
+Delivered a zero-to-one mobile web application for Carrefour - the second-largest retailer in the world - defining MVP scope, authoring user stories and acceptance criteria, and driving UAT across teams in the US, Hungary, and France; the ultimate goal was loyalty program integration; collected 2.0+ tons of recycling in the first year across 6 pilot stores
+Doubled PM team size, established consistent backlog grooming, sprint planning, and requirements elicitation practices
+Premise Data                                                                                                                                       November 2019 – January 2022
+Lead Product Manager
+Owned the end-to-end product backlog for a zero-to-one self-service component of a SaaS platform - conducted structured business requirements elicitation with operations stakeholders, authored detailed user stories and acceptance criteria, and managed backlog prioritization across multiple development teams with cross-team dependencies
+Defined MVP scope and release plans for each delivery increment; drove UAT activities with business and technology stakeholders; refined requirements based on sprint showcase feedback - reduced customer wait time by 80% and contributed to 100% YoY revenue growth for 80+ clients
+Managed prioritization and cross-team dependencies, sprint planning, and documentation in standard tools across a distributed agile team for a contributor-base demographic data collection feature across 36 languages that improved study targeting accuracy
+WarnerMedia (HBO)                                                                                                                                     May 2017 – October 2019
+Senior Technical Product Manager – HBO Digital Products
+Owned the regulatory product backlog and release roadmap for 3 digital video streaming services - HBO Now, HBO Go, and HBO Max - supporting 34.6M subscribers; collaborated with Systems Architects and Delivery Managers to sequence feature enablers, author acceptance criteria, and ensure all requirements fulfilled business goals and regulatory obligations (GDPR, CCPA, ADA, WCAG)
+Addressed the top 10 customer pain points within 6 months by initiating a Voice of the Customer program that closed the feedback loop between customer service insights and engineering quality improvements
+Reduced new engineer onboarding time by 20% by delivering an interactive self-service tutorial - freeing senior engineers for feature delivery and improving team velocity
+Nordstrom                                                                                                                                                              July 2006 – May 2017
+Group Manager – eCommerce Technology                                                                                                 August 2012 – May 2017
+Led a 25-person team of engineers, analysts, and program managers owning eCommerce platform delivery - sustained 99.49–99.97% site availability through consecutive Cyber Monday events and drove $15M in revenue growth over 3 years; used digital analytics tools to measure feature performance and inform backlog prioritization
+Served as primary liaison between technical and business stakeholders - translated business needs into prioritized backlog items, collaborated with Systems Architects on technical design decisions, and ensured all delivered features met acceptance criteria and business objectives
+Led Nordstrom's core Waterfall-to-SAFe Agile transformation across the full Technology organization
+Manager, Product and Program Management – eCommerce Technology                                             July 2006 – August 2012
+Managed $30M+ in capital investment across multiple multi-channel  improvement initiatives
+Authored and championed $22M+ in eCommerce business cases. Reduced checkout chargeback fraud by 48%, exceeded conversion targets by 67% and exceeded initial benefits projections by 190% through a focused checkout redesign 
+Defined MVP scope, authored business requirements, defined detailed acceptance criteria, managed sprint backlog prioritization, and drove UAT through to production release
+ADDITIONAL EXPERIENCE
+
+UC Berkeley Executive Education                                                                                                                 May 2021 – August 2023
+Product Management Coach
+Coached 50 PM professionals from high-profile corporations through a 9-week development program, achieving a 90% completion rate; led 4 in-person sessions with feedback on user story authoring, acceptance criteria formulation, backlog management, and product requirements documentation
+EDUCATION, CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+
+Wichita State University  - Master's Degree (MM)  ·  Wichita, KS
+San Francisco Conservatory of Music -  Master's Degree (MM)  ·  San Francisco, CA
+University of Washington -  Bachelor's Degree (BM)  ·  Seattle, WA
+Reforge: Product Strategy  ·  Product Leadership  ·  Technology Strategy  ·  User Insights for Product Decisions  ·  GenAI Product Strategy  ·  Design and Build Conversational AI  ·  AI-Assisted Prototyping  ·  Mastering AI Productivity
+UC Berkeley Executive Education: Product Management Studio
+Product Management Exercises: Product Management for AI/ML
